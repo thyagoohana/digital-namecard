@@ -1,14 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
-item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
-item2.X-ABLabel:_$!<HomePage>!$_
+FN;CHARSET=UTF-8:Thyago Ohana
+N;CHARSET=UTF-8:Ohana;Thyago;;;
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:mail@thyagoohana.com
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:thyago.ohana@boehringer-ingelheim.com
+TEL;TYPE=CELL:6765647214
+TITLE;CHARSET=UTF-8:Digital Transformation Manager
+ORG;CHARSET=UTF-8:Boehringer Ingelheim
+URL;CHARSET=UTF-8:https://www.thyagoohana.com
+REV:2020-04-25T15:36:53.636Z
 END:VCARD
