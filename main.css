@@ -143,24 +143,24 @@ img.profile-pic {
 }
 
 .text-name {
-    font-family: 'Lato', sans-serif;
-    font-weight: 400;
+    font-family: Poppins, Helvetica, sans-serif;
+    font-weight: 600;
     color: #333333;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 .text-title-company {
-    font-family: 'Lato', sans-serif;
+    font-family: Poppins, Helvetica, sans-serif;
     font-weight: 200;
     color: #333333;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .text-detail {
-    font-family: 'Lato', sans-serif;
+    font-family: Poppins, Helvetica, sans-serif;
     font-weight: 300;
-    color: #575757;
-    font-size: 12px;
+    color: #666666;
+    font-size: 14px;
 }
 
 .bottom {
@@ -168,7 +168,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #219653;
+	background-color: #0099e5;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
@@ -192,4 +192,12 @@ img.profile-pic {
     height: 80%;
     width: 80%;
   }
+}
+
+.top-pad {
+    padding-top: 0.5rem;
+}
+
+.rowshort {
+    height:50%;
 }
